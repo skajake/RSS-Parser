@@ -77,6 +77,12 @@ object CoreXMLParser {
                     insideChannelImage = true
                     channelImage = Image()
 
+                } else if (xmlPullParser.name.equals(RSSKeywords.RSS_CHANNEL_IMAGE_ITUNES, ignoreCase = true)) {
+                    if (channelImage == null) {
+                        xmlPullParser.getAttributeValue(null, RSSKeywords.RSS_ATTRIBUTE_HREF)?.let {
+                            channelImage = Image(null, it)
+                        }
+                    }
                 } else if (xmlPullParser.name.equals(RSSKeywords.RSS_ITEM_TITLE, ignoreCase = true)) {
                     if (insideChannel) {
                         when {

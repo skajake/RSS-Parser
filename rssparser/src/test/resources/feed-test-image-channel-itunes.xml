@@ -1,0 +1,158 @@
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feed.thisamericanlife.org/~d/styles/itemcontent.css"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0" xml:base="https://www.thisamericanlife.org">
+    <channel>
+        <title>This American Life</title>
+        <link>https://www.thisamericanlife.org</link>
+        <description>This American Life is a weekly public radio show, heard by 2.2 million people on more than 500 stations. Another 2.5 million people download the weekly podcast. It is hosted by Ira Glass, produced in collaboration with Chicago Public Media, delivered to stations by PRX The Public Radio Exchange, and has won all of the major broadcasting awards.</description>
+        <language>en</language>
+        <copyright>Copyright 1995-2020 This American Life</copyright>
+        <itunes:author>This American Life</itunes:author>
+        <itunes:subtitle>This American Life is a weekly public radio show, heard by 2.2 million people on more than 500 stations. Another 2.5 million people download the weekly podcast.</itunes:subtitle>
+        <itunes:owner> <itunes:email>rich@thislife.org</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Society &amp; Culture" />
+        <itunes:category text="Arts" />
+        <itunes:category text="News"> <itunes:category text="Politics" />
+        </itunes:category>
+        <itunes:image href="https://files.thisamericanlife.org/sites/all/themes/thislife/img/tal-name-1400x1400.png" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feed.thisamericanlife.org/talpodcast" /><feedburner:info uri="talpodcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:feedFlare href="http://www.podnova.com/add.srf?url=http%3A%2F%2Ffeed.thisamericanlife.org%2Ftalpodcast" src="http://www.podnova.com/img_chicklet_podnova.gif">Subscribe with Podnova</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeed.thisamericanlife.org%2Ftalpodcast" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeed.thisamericanlife.org%2Ftalpodcast" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://feedly.com/#subscription/feed/http://feed.thisamericanlife.org/talpodcast" src="http://s3.feedly.com/feedburner/feedly.png">Subscribe with Feedly</feedburner:feedFlare><feedburner:feedFlare href="https://www.subtome.com/#/subscribe?feeds=http%3A%2F%2Ffeed.thisamericanlife.org%2Ftalpodcast" src="http://www.subtome.com/subtome-feedburner.png">Subscribe with SubToMe</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeed.thisamericanlife.org%2Ftalpodcast" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><item>
+        <title>513: 129 Cars</title>
+        <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/Ft_kvhWEuxo/129-cars</link>
+        <description>We spend a month at a Jeep dealership on Long Island as they try to make their monthly sales goal: 129 cars. If they make it, they'll get a huge bonus from the manufacturer, possibly as high as $85,000 — enough to put them in the black for the month. If they don't make it, it'll be the second month in a row. So they pull out all the stops.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/Ft_kvhWEuxo" height="1" width="1" alt=""/&gt;</description>
+        <pubDate>Sun, 05 Jul 2020 18:00:00 -0400</pubDate>
+        <guid isPermaLink="false">37160 at https://www.thisamericanlife.org</guid>
+        <itunes:author>This American Life</itunes:author>
+        <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/22319bfa-6d3a-4f00-a4bd-eee1909d76bf/513.mp3" type="audio/mpeg" />
+        <itunes:duration>01:15:29</itunes:duration>
+        <itunes:subtitle>One car dealership tries to sell 129 cars. It is way more chaotic than we expected.
+        </itunes:subtitle>
+        <itunes:summary>We spend a month at a Jeep dealership on Long Island as they try to make their monthly sales goal: 129 cars. If they make it, they'll get a huge bonus from the manufacturer, possibly as high as $85,000 — enough to put them in the black for the month. If they don't make it, it'll be the second month in a row. So they pull out all the stops.
+        </itunes:summary>
+        <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/513/129-cars</feedburner:origLink></item>
+        <item>
+            <title>709: The Reprieve</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/0T91gA5XO9o/the-reprieve</link>
+            <description>Michigan has passed its Covid-19 peak, and the state has started opening up. But it’s still been intensely difficult for the staff in the ICU at Henry Ford Hospital in Detroit. We've embedded with them over the past few months, and tracked how this pandemic has changed them and their city.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/0T91gA5XO9o" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 28 Jun 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44524 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/da338f94-0790-4684-8e80-0ac198270b6f/709.mp3" type="audio/mpeg" />
+            <itunes:duration>01:18:23</itunes:duration>
+            <itunes:subtitle>How Covid-19 has changed the nurses and doctors at one hospital in Detroit, and their city.
+            </itunes:subtitle>
+            <itunes:summary>Michigan has passed its Covid-19 peak, and the state has started opening up. But it’s still been intensely difficult for the staff in the ICU at Henry Ford Hospital in Detroit. We've embedded with them over the past few months, and tracked how this pandemic has changed them and their city.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/709/the-reprieve</feedburner:origLink></item>
+        <item>
+            <title>684: Burn It Down</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/Qd7vp_aiwjE/burn-it-down</link>
+            <description>In the wake of George Floyd’s killing, people everywhere are demanding that police departments change not just their rules, but the culture inside that leads to these deaths. But those things are notoriously hard to change. As a case study, here's the story of a fire department that gets a new boss who starts a war with his own firefighters, to change their macho, racist culture. They fight back hard.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/Qd7vp_aiwjE" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 21 Jun 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44295 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/bcc0951d-57dc-43b6-98b2-91f0b3c32c8b/684.mp3" type="audio/mpeg" />
+            <itunes:duration>01:02:51</itunes:duration>
+            <itunes:subtitle>Stories of people who decide the only way forward — for real change — is to burn everything to the ground.
+            </itunes:subtitle>
+            <itunes:summary>In the wake of George Floyd’s killing, people everywhere are demanding that police departments change not just their rules, but the culture inside that leads to these deaths. But those things are notoriously hard to change. As a case study, here's the story of a fire department that gets a new boss who starts a war with his own firefighters, to change their macho, racist culture. They fight back hard.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/684/burn-it-down</feedburner:origLink></item>
+        <item>
+            <title>708: Here, Again</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/uAYTplsX3lQ/here-again</link>
+            <description>An exhaustingly familiar story. Maybe it’ll have a different ending this time, but maybe not. We hear what different people said and did one weekend in reaction to the killing of George Floyd.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/uAYTplsX3lQ" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 14 Jun 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44515 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/e5cace44-298d-4e63-9149-560fb5d9cbc7/708.mp3" type="audio/mpeg" />
+            <itunes:duration>01:05:55</itunes:duration>
+            <itunes:subtitle>We hear what different people said and did one weekend in reaction to the killing of George Floyd.
+            </itunes:subtitle>
+            <itunes:summary>An exhaustingly familiar story. Maybe it’ll have a different ending this time, but maybe not. We hear what different people said and did one weekend in reaction to the killing of George Floyd.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/708/here-again</feedburner:origLink></item>
+        <item>
+            <title>707: We Are in the Future</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/TLJFA1lTGZI/we-are-in-the-future</link>
+            <description>In this moment of sorrow, protest, and rage in the wake of George Floyd’s death, we offer this as a break from the dreadful present: our show about Afrofuturism. It’s a way of looking at Black culture that’s fantastic and hopeful, which feels especially urgent during a time without a lot of optimism. Featuring the song "The Deep" by clppng.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/TLJFA1lTGZI" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 07 Jun 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44508 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/403559cd-2c02-487f-9cea-60b2a3e93c19/707.mp3" type="audio/mpeg" />
+            <itunes:duration>01:01:24</itunes:duration>
+            <itunes:subtitle>In this moment of sorrow, protest, and rage, we offer this as a break from the dreadful present: our show about Afrofuturism.
+            </itunes:subtitle>
+            <itunes:summary>In this moment of sorrow, protest, and rage in the wake of George Floyd’s death, we offer this as a break from the dreadful present: our show about Afrofuturism. It’s a way of looking at Black culture that’s fantastic and hopeful, which feels especially urgent during a time without a lot of optimism. Featuring the song "The Deep" by clppng.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/707/we-are-in-the-future</feedburner:origLink></item>
+        <item>
+            <title>706: A Mess to Be Reckoned With</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/07WvCp-jKRc/a-mess-to-be-reckoned-with</link>
+            <description>Lissa Yellow Bird searches for missing people. Cold cases, mostly. People no one else is looking for. It’s not her job, but a lot of Native Americans go missing and their cases remain unsolved, so families often ask Lissa for help. But then, Lissa’s own niece goes missing. &lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/07WvCp-jKRc" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 31 May 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44494 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/481897c9-291d-4828-9e5d-f30bc1a8c35c/706.mp3" type="audio/mpeg" />
+            <itunes:duration>01:05:37</itunes:duration>
+            <itunes:subtitle>Lissa Yellow Bird searches for missing people. She's great at it. But then, her niece goes missing.
+            </itunes:subtitle>
+            <itunes:summary>Lissa Yellow Bird searches for missing people. Cold cases, mostly. People no one else is looking for. It’s not her job, but a lot of Native Americans go missing and their cases remain unsolved, so families often ask Lissa for help. But then, Lissa’s own niece goes missing.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/706/a-mess-to-be-reckoned-with</feedburner:origLink></item>
+        <item>
+            <title>705: Time Out</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/uLoGIrLb1Q8/time-out</link>
+            <description>While sports of all kinds have been put on pause, we bring you favorite stories from back when people were still on football fields, boxing rings, and basketball courts.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/uLoGIrLb1Q8" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 24 May 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44488 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/fd9435e6-e898-4af9-8c06-c106aaaac220/705.mp3" type="audio/mpeg" />
+            <itunes:duration>01:04:33</itunes:duration>
+            <itunes:subtitle>Our favorite stories from the football fields, boxing rings, and basketball courts of days past.
+            </itunes:subtitle>
+            <itunes:summary>While sports of all kinds have been put on pause, we bring you favorite stories from back when people were still on football fields, boxing rings, and basketball courts.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/705/time-out</feedburner:origLink></item>
+        <item>
+            <title>704: Our Pulitzer-Winning Episode</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/EoBasC0xtKs/our-pulitzer-winning-episode</link>
+            <description>Last week, our episode "The Out Crowd" won the very first Pulitzer Prize ever awarded to a radio show. This is the episode that won, with some updates on the stories. Hear what the Trump administration’s "Remain in Mexico" policy actually means, on the ground, at the Mexican border.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/EoBasC0xtKs" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 17 May 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44486 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/12d9d91c-2bb7-49da-b5fe-2f4a5a7bd59c/704.mp3" type="audio/mpeg" />
+            <itunes:duration>01:08:19</itunes:duration>
+            <itunes:subtitle>What the Trump administration’s "Remain in Mexico" policy really means, on the ground, at the Mexican border.
+            </itunes:subtitle>
+            <itunes:summary>Last week, our episode "The Out Crowd" won the very first Pulitzer Prize ever awarded to a radio show. This is the episode that won, with some updates on the stories. Hear what the Trump administration’s "Remain in Mexico" policy actually means, on the ground, at the Mexican border.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/704/our-pulitzer-winning-episode</feedburner:origLink></item>
+        <item>
+            <title>703: Stuck!</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/SKITGdzz-zg/stuck</link>
+            <description>During a time when a lot of us feel like we are living in a holding pattern, stories of people feeling stuck.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/SKITGdzz-zg" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 10 May 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44475 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/eb3ab347-61b2-40ab-ba28-93bf8dd891ed/703.mp3" type="audio/mpeg" />
+            <itunes:duration>01:00:16</itunes:duration>
+            <itunes:subtitle>During a time when a lot of us feel like we are living in a holding pattern, stories of people feeling stuck.
+            </itunes:subtitle>
+            <itunes:summary>During a time when a lot of us feel like we are living in a holding pattern, stories of people feeling stuck.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/703/stuck</feedburner:origLink></item>
+        <item>
+            <title>702: One Last Thing Before I Go</title>
+            <link>http://feed.thisamericanlife.org/~r/talpodcast/~3/kuRw5UvDrq0/one-last-thing-before-i-go</link>
+            <description>Words can seem so puny and ineffective sometimes. On this show, we have stories in which ordinary people make last ditch efforts to get through to their loved ones, using a combination of small talk and not-so-small talk.&lt;img src="http://feeds.feedburner.com/~r/talpodcast/~4/kuRw5UvDrq0" height="1" width="1" alt=""/&gt;</description>
+            <pubDate>Sun, 26 Apr 2020 18:00:00 -0400</pubDate>
+            <guid isPermaLink="false">44470 at https://www.thisamericanlife.org</guid>
+            <itunes:author>This American Life</itunes:author>
+            <enclosure url="https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/188/32b9878d-7da9-42af-bf6a-8deea635f846/702.mp3" type="audio/mpeg" />
+            <itunes:duration>01:04:25</itunes:duration>
+            <itunes:subtitle>Ordinary people make last ditch efforts to get through to their loved ones.
+            </itunes:subtitle>
+            <itunes:summary>Words can seem so puny and ineffective sometimes. On this show, we have stories in which ordinary people make last ditch efforts to get through to their loved ones, using a combination of small talk and not-so-small talk.
+            </itunes:summary>
+            <dc:creator>This American Life</dc:creator><feedburner:origLink>https://www.thisamericanlife.org/702/one-last-thing-before-i-go</feedburner:origLink></item>
+    </channel>
+</rss>

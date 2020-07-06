@@ -22,6 +22,7 @@ object RSSKeywords {
     // channel
     const val RSS_CHANNEL = "channel"
     const val RSS_CHANNEL_IMAGE = "image"
+    const val RSS_CHANNEL_IMAGE_ITUNES = "itunes:image"
     const val RSS_CHANNEL_UPDATE_PERIOD = "sy:updatePeriod"
     const val RSS_CHANNEL_LAST_BUILD_DATE = "lastBuildDate"
 
@@ -42,4 +43,6 @@ object RSSKeywords {
     const val RSS_ITEM_TYPE = "type"
     const val RSS_ITEM_GUID = "guid"
     const val RSS_ITEM_SOURCE = "source"
+
+    const val RSS_ATTRIBUTE_HREF = "href"
 }
