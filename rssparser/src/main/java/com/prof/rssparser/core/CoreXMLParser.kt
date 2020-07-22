@@ -17,6 +17,7 @@
 
 package com.prof.rssparser.core
 
+import android.annotation.SuppressLint
 import com.prof.rssparser.Article
 import com.prof.rssparser.Channel
 import com.prof.rssparser.Image
@@ -28,10 +29,16 @@ import java.io.ByteArrayInputStream
 import java.io.IOException
 import java.io.InputStreamReader
 import java.io.Reader
+import java.time.LocalTime
+import java.time.format.DateTimeFormatter
 import java.util.regex.Pattern
 
 object CoreXMLParser {
 
+    @SuppressLint("NewApi")
+    val durationDateFormatter = DateTimeFormatter.ofPattern("HH:mm:ss")
+
+    @SuppressLint("NewApi")
     @Throws(XmlPullParserException::class, IOException::class)
     fun parseXML(xml: String): Channel {
 
@@ -204,6 +211,11 @@ object CoreXMLParser {
                 } else if (xmlPullParser.name.equals(RSSKeywords.RSS_ITEM_GUID, ignoreCase = true)) {
                     if (insideItem) {
                         currentArticle.guid = xmlPullParser.nextText().trim()
+                    }
+                } else if(xmlPullParser.name.equals(RSSKeywords.RSS_ITEM_ITUNES_DURATION, ignoreCase = true)) {
+                    if (insideItem) {
+                        val time = LocalTime.parse(xmlPullParser.nextText(), durationDateFormatter)
+                        currentArticle.duration = time.toSecondOfDay()
                     }
                 } else if (xmlPullParser.name.equals(RSSKeywords.RSS_CHANNEL_LAST_BUILD_DATE, ignoreCase = true)) {
                     if (insideChannel) {

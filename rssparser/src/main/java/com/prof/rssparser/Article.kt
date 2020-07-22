@@ -32,6 +32,7 @@ data class Article(
         var video: String? = null,
         var sourceName: String? = null,
         var sourceUrl: String? = null,
+        var duration: Int? = null,
         private var _categories: MutableList<String> = mutableListOf()
 ): Serializable {
 
