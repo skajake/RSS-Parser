@@ -214,8 +214,13 @@ object CoreXMLParser {
                     }
                 } else if(xmlPullParser.name.equals(RSSKeywords.RSS_ITEM_ITUNES_DURATION, ignoreCase = true)) {
                     if (insideItem) {
-                        val time = LocalTime.parse(xmlPullParser.nextText(), durationDateFormatter)
-                        currentArticle.duration = time.toSecondOfDay()
+                        val text = xmlPullParser.nextText()
+                        if (text.contains(":")) {
+                            val time = LocalTime.parse(text, durationDateFormatter)
+                            currentArticle.duration = time.toSecondOfDay()
+                        } else {
+                            currentArticle.duration = text.toInt()
+                        }
                     }
                 } else if (xmlPullParser.name.equals(RSSKeywords.RSS_CHANNEL_LAST_BUILD_DATE, ignoreCase = true)) {
                     if (insideChannel) {
