@@ -33,6 +33,7 @@ data class Article(
         var sourceName: String? = null,
         var sourceUrl: String? = null,
         var duration: Int? = null,
+        var length: Int? = null,
         private var _categories: MutableList<String> = mutableListOf()
 ): Serializable {
 

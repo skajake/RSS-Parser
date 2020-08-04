@@ -147,6 +147,10 @@ object CoreXMLParser {
 
                 } else if (xmlPullParser.name.equals(RSSKeywords.RSS_ITEM_ENCLOSURE, ignoreCase = true)) {
                     if (insideItem) {
+                        val length = xmlPullParser.getAttributeValue(null, RSSKeywords.RSS_ITEM_LENGTH)
+                        if (length != null) {
+                            currentArticle.length = length.toInt()
+                        }
                         val type = xmlPullParser.getAttributeValue(null, RSSKeywords.RSS_ITEM_TYPE)
                         if (type != null && type.contains("image")) {
                             // If there are multiple elements, we take only the first

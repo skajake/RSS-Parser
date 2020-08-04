@@ -88,6 +88,12 @@ class CoreXMLParserImageChannelItunesTest {
 
     @Test
     @Throws
+    fun length_isCorrect() {
+        Assert.assertEquals(articleList[1].length, 49853111)
+    }
+
+    @Test
+    @Throws
     fun second_duration_isCorrect() {
         Assert.assertEquals(articleList[2].duration, 6789)
     }
